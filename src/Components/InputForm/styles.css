@@ -1,0 +1,40 @@
+.inputBar {
+    border-bottom: 2px solid grey;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    background-color: rgba(153, 153, 153, 0.01);
+    outline: none;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    text-shadow: none;
+}
+
+.input:past{
+    background-color: black;
+}
+
+.confirm {
+    background-color: rgba(0, 0, 0, 0.001);
+    color: white;
+    padding: 8px;
+    border: 1px solid black;
+    margin: 4px;
+    font-size: 22px;
+    outline: none;
+}
+
+.confirm:hover {
+    color: greenyellow;
+    outline: none;
+    cursor: pointer;
+}
+
+.weatherForm {
+    border: 2px solid grey;
+    border-radius: 12px;
+    width: 300px;
+    height: 300px;
+    padding: 12px;
+}

@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: rgb(223, 223, 223);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+  margin: 12px;
+}

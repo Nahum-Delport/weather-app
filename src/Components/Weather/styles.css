@@ -1,0 +1,18 @@
+.results {
+    color: rgba(255, 95, 95, 0.658)
+}
+
+.mainResults {
+    display: block;
+    border: 2px solid rgba(128, 128, 128, 0.096);
+    border-radius: 12px;
+    width: 500px;
+    float: right;
+    margin: 10px;
+    padding: 8px;
+    flex-wrap: wrap;
+}
+.iconic {
+    font-size: 100px;
+    color: rgba(255, 95, 95, 0.658);
+}
